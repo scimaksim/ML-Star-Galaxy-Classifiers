@@ -1,1 +1,7 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/MyTable_2_mvnikifo_0.csv filter=lfs diff=lfs merge=lfs -text
+data/MyTable_6_mvnikifo.csv filter=lfs diff=lfs merge=lfs -text
+data/sdss_dr7.csv filter=lfs diff=lfs merge=lfs -text
+sdss_cas_photometric_data.csv filter=lfs diff=lfs merge=lfs -text
+sdss_dr7.csv filter=lfs diff=lfs merge=lfs -text
+sdss_dr7_observations.csv filter=lfs diff=lfs merge=lfs -text
